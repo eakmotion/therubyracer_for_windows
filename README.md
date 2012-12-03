@@ -1,5 +1,5 @@
 Most of Ruby on Rails developers have a problem to install therubyracer gem in windows environment.
-The therubyracer_for_windows package provides all the necessary gems and v8.dll to solve the this issue. 
+The "therubyracer_for_windows" package provides all the necessary gems and v8.dll to solve this issue. 
 
 Installation steps:
 
